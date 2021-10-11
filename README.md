@@ -31,6 +31,16 @@
 <br>
 <br>
 
+### ⚡ Recent GitHub Activity
+
+1. 🚩 Finished [React Todo app][todo-app] using React, JavaScript, TypeScript
+2. 🚩 Finished [React REST API app][api-app] using React, JavaScript, TypeScript
+3. 🚩 Finished [Miami][miami] landing using HTML5, CSS3, SASS, CSS animations and grid
+4. 🚩 Finished [Kickstarter][kickstarter] landing using HTML5, CSS3, SASS, JS, CSS animations and grid
+<!-- 3. ⚙️ Started Dynamic background generator project, link [here...][dbg] -->
+
+<br />
+
 [![Andrij-Nalyvayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrij-Nalyvayko)](https://github.com/Andrij-Nalyvayko/github-readme-stats)
 
 
@@ -42,10 +52,15 @@
 [<img style="width: 45px;" src ="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"/>][resume]
 [<img style="width: 45px;" src ="https://nicolasersalefilms.files.wordpress.com/2015/08/gmail-icon.png"/>][gmail]
 
-[telegram]: https://t.me/andrij_world
+[telegram]: https://t.me/andrij_n
 [facebook]: https://www.facebook.com/profile.php?id=100000449592527
 [skype]: https://join.skype.com/invite/andynal1996
 [linkedin]: https://www.linkedin.com/in/andrij-nalyvayko-749076222
 [codewars]: https://www.codewars.com/users/Andrij%20Nalyvajko
 [resume]: https://docs.google.com/document/d/e/2PACX-1vSesk53jOLFMrvD4IbPLP_MvBaGMplc_-jutM5sC67Wz7-BkL107XGE50ECjeHlYKZV361XUe-1JI-H/pub
 [gmail]: mailto:andrij.nalyvayko@gmail.com
+[miami]: https://andrij-nalyvayko.github.io/layout_miami/#
+[todo-app]: https://andrij-nalyvayko.github.io/Todo-React-App/#/
+[kickstarter]: https://andrij-nalyvayko.github.io/Kickstarter/
+[api-app]: https://andrij-nalyvayko.github.io/react_dynamic-list-of-posts/
+
