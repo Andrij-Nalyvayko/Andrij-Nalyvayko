@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on self-development and development of self-discipline 
 
-- 📚 I’m currently learning JavaScript, React and other relevant skills
+- 📚 I’m learning JavaScript, React and other relevant skills
 
 - 💪 I solved 150+ katas on [CodeWars](https://www.codewars.com/users/Andrij%20Nalyvajko)
 
