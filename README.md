@@ -1,6 +1,7 @@
 ## Hi there👋
 
-- 🎓 I am Andrij Nalyvayko. I learn codding and looking for new opportunities in Frontend development (mostly I like React Applications). I am also finished College of telecommunications and computer technologies of National University "Lviv Polytechnic". In 2021, I learned JavaScript, HTML/CSS, React, TypeScript.  
+- 🎓 I am Andrij Nalyvayko. <!--I learn codding and looking for new opportunities in Frontend development (mostly I like React Applications). I am also--> 
+I finished College of telecommunications and computer technologies of National University "Lviv Polytechnic". In 2021, I learned JavaScript, HTML/CSS, React, TypeScript.  
 
 - 🔭 I’m currently working on self-development and development of self-discipline 
 
