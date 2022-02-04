@@ -46,7 +46,7 @@ I finished College of telecommunications and computer technologies of National U
 
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
 
 
 ### 🚀 Contacts
