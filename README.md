@@ -9,7 +9,7 @@ I finished College of telecommunications and computer technologies of National U
 
 - 💪 I solved 150+ katas on [CodeWars](https://www.codewars.com/users/Andrij%20Nalyvajko)
 
-- 🚩 2021 Goals: become much more experienced web developer
+- 🚩 2022 Goals: become much more experienced web developer
 
 - 📚 I love reading books on personal development & financial literacy. My favorites ones are "21 secrets of self made millionaires" by Brian Tracy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy. I like to understand that today I am better than yesterday
 
