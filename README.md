@@ -42,12 +42,11 @@ I finished College of telecommunications and computer technologies of National U
 
 <br />
 
-[![Andrij-Nalyvayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrij-Nalyvayko)](https://github.com/Andrij-Nalyvayko/github-readme-stats)
+<!--[![Andrij-Nalyvayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrij-Nalyvayko)](https://github.com/Andrij-Nalyvayko/github-readme-stats)-->
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
-
 
 ### 🚀 Contacts
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]
