@@ -1,7 +1,7 @@
-## Hi there👋
+<!--## Hi there👋
 
 - 🎓 I am Andrij Nalyvayko. <!--I learn codding and looking for new opportunities in Frontend development (mostly I like React Applications). I am also--> 
-I finished College of telecommunications and computer technologies of National University "Lviv Polytechnic". In 2021, I learned JavaScript, HTML/CSS, React, TypeScript.  
+<!--I finished College of telecommunications and computer technologies of National University "Lviv Polytechnic". In 2021, I learned JavaScript, HTML/CSS, React, TypeScript.  
 
 - 🔭 I’m currently working on self-development and development of self-discipline 
 
@@ -46,9 +46,9 @@ I finished College of telecommunications and computer technologies of National U
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
 
-### 🚀 Contacts
+### 🚀 Contacts-->
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]
 [<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
