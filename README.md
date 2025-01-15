@@ -49,6 +49,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrij-Nalyvayko&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
 
 ### 🚀 Contacts-->
+<!--
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]
 [<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
@@ -67,4 +68,5 @@
 [todo-app]: https://andrij-nalyvayko.github.io/Todo-React-App/#/
 [kickstarter]: https://andrij-nalyvayko.github.io/Kickstarter/
 [api-app]: https://andrij-nalyvayko.github.io/react_dynamic-list-of-posts/
+
 
